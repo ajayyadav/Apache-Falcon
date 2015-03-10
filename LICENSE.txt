@@ -225,3 +225,5 @@ MIT license. For details, see docs/license/dust-helpers-LICENSE.txt
 
 This product bundles jquery 1.11.0, which is available under a
 MIT license. For details, see docs/license/jquery-LICENSE.txt
+
+
